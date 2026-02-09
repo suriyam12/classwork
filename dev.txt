@@ -1,0 +1,9 @@
+ Volume in drive D is ACER DATA
+ Volume Serial Number is EEF7-CA60
+
+ Directory of D:\classwork
+
+09-02-2026  14:17    <DIR>          .
+09-02-2026  14:17                 0 dev.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  254,911,410,176 bytes free
